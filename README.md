@@ -66,7 +66,7 @@ streamlit run frontend.py
 
 ## Screenshots
 
-*(Add relevant screenshots of the UI here)*
+
 
 ## Contributing
 
